@@ -8,21 +8,21 @@ I recently completed a 4 month Makers Bootcamp - taking the specialist track in 
 <div style="margin:auto; max-width:800px;">
   <table style="margin:auto; border-collapse: collapse; width:100%;">
 <tr>
-<td style="text-align:center; vertical-align:top; padding:10px; font-weight: bold;">Python</td>
-<td style="text-align:center; vertical-align:top; padding:10px; font-weight: bold;">Javascript</td>
-<td style="text-align:center; vertical-align:top; padding:10px; font-weight: bold;">Databases</td>
-<td style="text-align:center; vertical-align:top; padding:10px; font-weight: bold;">Web Technologies</td>
+<td style="text-align:center; vertical-align:top; padding:10px; font-weight: bold; font-size:18px">Python</td>
+<td style="text-align:center; vertical-align:top; padding:10px; font-weight: bold; font-size:18px">Javascript</td>
+<td style="text-align:center; vertical-align:top; padding:10px; font-weight: bold; font-size:18px">Databases</td>
+<td style="text-align:center; vertical-align:top; padding:10px; font-weight: bold; font-size:18px">Web Technologies</td>
 </tr>
 
 <tr>
-<td style="text-align:center; vertical-align:top; padding:10px;">
+<td style="text-align:left; vertical-align:top; padding:10px;">
 
 - Flask
 - Pytest
 - Jinja
 
 </td>
-<td style="text-align:center; vertical-align:top; padding:10px;">
+<td style="text-align:left; vertical-align:top; padding:10px;">
 
 - Express
 - Node.js
@@ -32,13 +32,13 @@ I recently completed a 4 month Makers Bootcamp - taking the specialist track in 
 - Playwright
 
 </td>
-<td style="text-align:center; vertical-align:top; padding:10px;">
+<td style="text-align:left; vertical-align:top; padding:10px;">
 
 - PostgreSQL
 - MongoDB
 
 </td>
-<td style="text-align:center; vertical-align:top; padding:10px;">
+<td style="text-align:left; vertical-align:top; padding:10px;">
 
 - HTTP
 - HTML
