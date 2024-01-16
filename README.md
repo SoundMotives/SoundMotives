@@ -4,10 +4,20 @@
 I recently completed a 4 month Makers Bootcamp - taking the specialist track in software development. Beyond the fundamentals of Python and Javascript, the bootcamp focused on the Golden Square principles (test-driven-development, object-oriented design, debugging and pair programming), as well as best practices for the design and building databases and web applications.
 
 ## Languages, frameworks, libraries and web technologies I've used
+
+<div style="margin:auto; max-width:600px;">
+  <table style="margin:auto;">
+<table>
+  <tr>
+    <td style="text-align:left; vertical-align:top; padding:10px;">
+
 ### Python
 - Flask
 - Pytest
 - Jinja
+
+    </td>
+    <td style="text-align:left; vertical-align:top; padding:10px;">
 
 ### Javascript
 - Express
@@ -17,15 +27,29 @@ I recently completed a 4 month Makers Bootcamp - taking the specialist track in 
 - Cypress
 - Playwright
 
+    </td>
+    <td style="text-align:left; vertical-align:top; padding:10px;">
+
 ### Databases
 - PostgreSQL
 - MongoDB
+
+    </td>
+    <td style="text-align:left; vertical-align:top; padding:10px;">
 
 ### Web Technologies
 - HTTP
 - HTML
 - CSS
 - Git
+    </td>
+  </tr>
+</table>
+</div>
+
+
+
+
 
 ## My Makers Projects
 ### [Roam Mates](https://github.com/SoundMotives/RoamMatesFork)
