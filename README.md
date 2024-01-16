@@ -55,10 +55,12 @@ I recently completed a 4 month Makers Bootcamp - taking the specialist track in 
 The final Makers group project, Roam Mates connects like-minded travellers who are looking to find people to explore the world with! It's like Tinder for travellers, without the dalliances! This was a challenging project, as we looked to implement a Python backend using Flask and PostgreSQL, with a Javascript and React frontend. It was the most complex project I've worked on so far, and enjoyed implementing state as well as using useEffect and React Router's useParams.  
 
 It was also our first experience working in tandem with quality engineers to ensure the team produced good quality code throughout, so we learned alot!
+
 ![Screenshots from Roam Mates](assets/RoamMates_compilation.png)
 
 ### AceBook
 AceBook is a Facebook clone, built using the MERN stack (MongoDB, Express, React and Node.js). It was our first opportunity to implement some of the learnings from our Javascript and React studies into a real project. 
+
 ![Screenshots from Acebook](assets/Acebook_compilation.png)
 
 ### MakersBnB
