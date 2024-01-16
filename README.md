@@ -1,16 +1,53 @@
-### Hi there 👋
+# Hi there 👋
 
-<!--
-**SoundMotives/SoundMotives** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm Dave, a London-based fullstack software developer. 
+I recently completed a 4 month Makers Bootcamp - taking the specialist track in software development. Beyond the fundamentals of Python and Javascript, the bootcamp focused on the Golden Square principles (test-driven-development, object-oriented design, debugging and pair programming), as well as best practices for the design and building databases and web applications.
 
-Here are some ideas to get you started:
+## Languages, frameworks, libraries and web technologies I've used
+### Python
+- Flask
+- Pytest
+- Jinja
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Javascript
+- Express
+- Node.js
+- React
+- Jest
+- Cypress
+- Playwright
+
+### Databases
+- PostgreSQL
+- MongoDB
+
+### Web Technologies
+- HTTP
+- HTML
+- CSS
+- Git
+
+## My Makers Projects
+### [Roam Mates](https://github.com/SoundMotives/RoamMatesFork)
+The final Makers group project, Roam Mates connects like-minded travellers who are looking to find people to explore the world with! It's like Tinder for travellers, without the dalliances! This was a challenging project, as we looked to implement a Python backend using Flask and PostgreSQL, with a Javascript and React frontend. It was the most complex project I've worked on so far, and enjoyed implementing state as well as using useEffect and React Router's useParams.  
+
+It was also our first experience working in tandem with quality engineers to ensure the team produced good quality code throughout, so we learned alot!  
+![Screengrab of various pages from Roam Mates project](https://github.com/SoundMotives/SoundMotives/blob/main/RoamMates%20compilation.png)
+
+### AceBook
+AceBook is a Facebook clone, built using the MERN stack (MongoDB, Express, React and Node.js). It was our first opportunity to implement some of the learnings from our Javascript and React studies into a real project. 
+
+### MakersBnB
+MakersBNB is an AirBnB clone, built using Python, Flask, PostgreSQL and Pytest. 
+
+### Chitter
+Chitter is a Twitteer clone, built using Python, Flask, PostgreSQL and Pytest. 
+
+## Current Projects
+I'm building on the learnings from Roam Mates by beginning a new project which takes a similar approach of Python backend and Javascript/React frontend, but I'm looking to incorporate Django into the backend, to expand my tool kit and potentially speed up workflows in the future.  
+
+## My Previous Experience 📻
+Formerly an award-winning Producer, Executive Producer and Editorial Consultant with over 15 years of audio experience, my career began in radio and podcasts. After refining my editorial and audio skills in these established formats, innovation and technology began playing an evermore central role in my work, participating in multidisciplinary teams developing synthetic voice experiences and innovation formats for broadcasters (BBC), publishers (The Guardian, The Financial Times), brands (Red Bull) and startups (Beams) - with synthetic voice technologies from Google Cloud, Microsoft Azure and Amazon Alexa at their core.
+
+## Anything else?
+As I continue my learning post-bootcamp, I'm now looking for a role where I might continue to build on the learning I've done so far. My coding journey has been incredibly rewarding, relearning to learn once again, and I'm excited to continue improving and developing.  
