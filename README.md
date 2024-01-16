@@ -3,23 +3,27 @@
 ## I'm Dave, a London-based fullstack software developer. 
 I recently completed a 4 month Makers Bootcamp - taking the specialist track in software development. Beyond the fundamentals of Python and Javascript, the bootcamp focused on the Golden Square principles (test-driven-development, object-oriented design, debugging and pair programming), as well as best practices for the design and building databases and web applications.
 
-## Languages, frameworks, libraries and web technologies I've used
+## Languages, frameworks, libraries and web technologies I've used:
 
-<div style="margin:auto; max-width:600px;">
-  <table style="margin:auto;">
-<table>
-  <tr>
-    <td style="text-align:left; vertical-align:top; padding:10px;">
+<div style="margin:auto; max-width:800px;">
+  <table style="margin:auto; border-collapse: collapse; width:100%;">
+<tr>
+<td style="text-align:center; vertical-align:top; padding:10px; font-weight: bold;">Python</td>
+<td style="text-align:center; vertical-align:top; padding:10px; font-weight: bold;">Javascript</td>
+<td style="text-align:center; vertical-align:top; padding:10px; font-weight: bold;">Databases</td>
+<td style="text-align:center; vertical-align:top; padding:10px; font-weight: bold;">Web Technologies</td>
+</tr>
 
-### Python
+<tr>
+<td style="text-align:center; vertical-align:top; padding:10px;">
+
 - Flask
 - Pytest
 - Jinja
 
-    </td>
-    <td style="text-align:left; vertical-align:top; padding:10px;">
+</td>
+<td style="text-align:center; vertical-align:top; padding:10px;">
 
-### Javascript
 - Express
 - Node.js
 - React
@@ -27,24 +31,23 @@ I recently completed a 4 month Makers Bootcamp - taking the specialist track in 
 - Cypress
 - Playwright
 
-    </td>
-    <td style="text-align:left; vertical-align:top; padding:10px;">
+</td>
+<td style="text-align:center; vertical-align:top; padding:10px;">
 
-### Databases
 - PostgreSQL
 - MongoDB
 
-    </td>
-    <td style="text-align:left; vertical-align:top; padding:10px;">
+</td>
+<td style="text-align:center; vertical-align:top; padding:10px;">
 
-### Web Technologies
 - HTTP
 - HTML
 - CSS
 - Git
-    </td>
-  </tr>
-</table>
+
+</td>
+</tr>
+  </table>
 </div>
 
 
