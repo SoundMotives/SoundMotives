@@ -64,10 +64,7 @@ AceBook is a Facebook clone, built using the MERN stack (MongoDB, Express, React
 ![Screenshots from Acebook](assets/Acebook_compilation.png)
 
 ### MakersBnB
-MakersBNB is an AirBnB clone, built using Python, Flask, PostgreSQL and Pytest. 
-
-### Chitter
-Chitter is a Twitteer clone, built using Python, Flask, PostgreSQL and Pytest. 
+MakersBNB is an AirBnB clone, built using Python, Flask, PostgreSQL and Pytest. It was our first opportunity to work as part of a software development team, learning to use Git and Github to collaborate effectively.
 
 ## Current Projects 💻
 I'm building on the learnings from Roam Mates with a new project which takes a similar approach of Python backend and Javascript/React frontend, but incorporating Django into the backend, to continue expanding my learning and potentially speed up workflows in the future!  
