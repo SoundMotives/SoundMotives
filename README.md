@@ -58,7 +58,7 @@ It was also our first experience working in tandem with quality engineers to ens
 
 ![Screenshots from Roam Mates](assets/RoamMates_compilation.png)
 
-### AceBook
+### [AceBook](https://github.com/SoundMotives/AceBook)
 AceBook is a Facebook clone, built using the MERN stack (MongoDB, Express, React and Node.js). It was our first opportunity to implement some of the learnings from our Javascript and React studies into a real project. 
 
 ![Screenshots from Acebook](assets/Acebook_compilation.png)
