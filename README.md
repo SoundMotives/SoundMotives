@@ -20,8 +20,8 @@ Prior to Makers, I participated in Stanford's annual 8-week Code In Place course
 <td style="text-align:left; vertical-align:top; padding:10px;">
 
 - Flask
-- Pytest
 - Jinja
+- Pytest
 
 </td>
 <td style="text-align:left; vertical-align:top; padding:10px;">
@@ -42,10 +42,11 @@ Prior to Makers, I participated in Stanford's annual 8-week Code In Place course
 </td>
 <td style="text-align:left; vertical-align:top; padding:10px;">
 
-- HTTP
-- HTML
 - CSS
 - Git
+- HTML
+- HTTP
+
 
 </td>
 </tr>
