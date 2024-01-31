@@ -3,6 +3,8 @@
 ## I'm Dave, a London-based full-stack developer. 
 I recently completed a 4 month Makers Bootcamp - taking the specialist track in software development. Beyond the fundamentals of Python and Javascript, the bootcamp focused on the Golden Square principles (test driven development, object-oriented design, debugging and pair programming), alongside best practices for the design and building of databases and web applications.
 
+Prior to Makers, I participated in Stanford's annual Code In Place course.
+
 ## Languages, frameworks, libraries and web technologies I've used: 
 
 <div style="margin:auto; max-width:800px;">
