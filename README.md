@@ -54,19 +54,17 @@ Prior to Makers, I participated in Stanford's annual Code In Place course.
 
 ## My Makers Projects 💻
 ### [Roam Mates](https://github.com/SoundMotives/RoamMatesFork)
-The final Makers group project, Roam Mates connects like-minded travellers who are looking to find people to explore the world with! It's like Tinder for travellers, without the dalliances! This was a challenging project, as we looked to implement a Python backend using Flask and PostgreSQL, with a Javascript and React frontend. It was the most complex project I've worked on so far, and enjoyed implementing state as well as using useEffect and React Router's useParams.  
-
-It was also our first experience working in tandem with quality engineers to ensure the team produced good quality code throughout, so we learned alot!
+Roam Mates “connects like-minded travellers to explore the world! together”  We implemented a Python backend using Flask and PostgreSQL, with a Javascript and React frontend using JWT authentication. Collaboration was managed using Git, and testing was conducted using Pytest, Cypress and Playwright. Quality Engineer collaboration ensured the team built better software, and we learned a lot!
 
 ![Screenshots from Roam Mates](assets/RoamMates_compilation.png)
 
 ### [AceBook](https://github.com/SoundMotives/AceBook)
-AceBook is a Facebook clone, built using the MERN stack (MongoDB, Express, React and Node.js). It was our first opportunity to implement some of the learnings from our Javascript and React studies into a real project. 
+AceBook was built using the MERN stack (MongoDB, Express, React and Node.js). Collaboration was managed using Git, and testing was conducted using Cypress and Playwright. 
 
 ![Screenshots from Acebook](assets/Acebook_compilation.png)
 
 ### MakersBnB
-MakersBNB is an AirBnB clone, built using Python, Flask, PostgreSQL and Pytest. It was our first opportunity to work as part of a software development team, learning to use Git and Github to collaborate effectively.
+MakersBNB is an AirBnB clone, built using Python, Flask, PostgreSQL. Collaboration was managed using Git, and testing was conducted using Pytest.
 
 ## Current Projects 💻
 I'm building on the learnings from Roam Mates with a new project which takes a similar approach of Python backend and Javascript/React frontend, but incorporating Django into the backend, to continue expanding my learning and potentially speed up workflows in the future!  
