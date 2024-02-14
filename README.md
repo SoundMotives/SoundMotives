@@ -66,7 +66,7 @@ AceBook was built using the MERN stack (MongoDB, Express, React and Node.js). Co
 
 ![Screenshots from Acebook](assets/Acebook_compilation.png)
 
-### [Chitter] (https://github.com/SoundMotives/Chitter)
+### [Chitter](https://github.com/SoundMotives/Chitter)
 Chitter is a Twitter clone, built using Python, Flask, Jinja, PostgreSQL, CCS, HTML and HTTP.
 
 ### MakersBnB
