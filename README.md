@@ -69,6 +69,8 @@ AceBook was built using the MERN stack (MongoDB, Express, React and Node.js). Co
 ### [Chitter](https://github.com/SoundMotives/Chitter)
 Chitter is a Twitter clone, built using Python, Flask, Jinja, PostgreSQL, CCS, HTML and HTTP. Chitter uses session-based authentication for users to access authenticated pages. 
 
+![Screenshots from Roam Mates](assets/Chitter_screengrabs.png)
+
 ### MakersBnB
 MakersBNB is an AirBnB clone, built using Python, Flask, PostgreSQL. Collaboration was managed using Git, and testing was conducted using Pytest.
 
