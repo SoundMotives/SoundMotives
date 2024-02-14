@@ -56,7 +56,7 @@ Prior to Makers, I participated in Stanford's annual 8-week Code In Place course
 </div>
 
 ## My Makers Projects 💻
-### [Roam Mates](https://github.com/SoundMotives/RoamMatesFork)
+### [Roam Mates](https://github.com/SoundMotives/RoamMates)
 Roam Mates “connects like-minded travellers to explore the world! together”  We implemented a Python backend using Flask and PostgreSQL, with a Javascript and React frontend using JWT authentication. Collaboration was managed using Git, and testing was conducted using Pytest, Cypress and Playwright. Quality Engineer collaboration ensured the team built better software, and we learned a lot!
 
 ![Screenshots from Roam Mates](assets/RoamMates_compilation.png)
