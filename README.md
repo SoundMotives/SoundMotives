@@ -21,6 +21,7 @@ Prior to Makers, I participated in Stanford's annual 8-week Code In Place course
 
 - Flask
 - Jinja
+- Playwright
 - Pytest
 
 </td>
