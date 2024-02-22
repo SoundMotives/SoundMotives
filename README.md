@@ -66,13 +66,18 @@ AceBook was built using the MERN stack (MongoDB, Express, React and Node.js). Co
 
 ![Screenshots from Acebook](assets/Acebook_compilation.png)
 
+### MakersBnB
+MakersBNB is an AirBnB clone, built using Python, Flask, PostgreSQL. Collaboration was managed using Git, and testing was conducted using Pytest.
+
 ### [Chitter](https://github.com/SoundMotives/Chitter)
 Chitter is a Twitter clone, built using Python, Flask, Jinja, PostgreSQL, CCS, HTML and HTTP. Chitter uses session-based authentication for users to access authenticated pages. 
 
-![Screenshots from Roam Mates](assets/Chitter_screengrabs.png)
+![Screenshots from Chitter](assets/Chitter_screengrabs.png)
 
-### MakersBnB
-MakersBNB is an AirBnB clone, built using Python, Flask, PostgreSQL. Collaboration was managed using Git, and testing was conducted using Pytest.
+### [Paper Scissors Stone](https://github.com/SoundMotives/PaperScissorsStone)
+This is a simple web app of the Paper Scissors Stone game. It's an excercise in designing routes in Python, Flask, Jinja, CCS, HTML and HTTP. 
+
+
 
 ## Current Projects 💻
 I'm building on the learnings from Roam Mates with a new project which takes a similar approach of Python backend and Javascript/React frontend, but incorporating Django into the backend, to continue expanding my learning and potentially speed up workflows in the future!  
