@@ -75,7 +75,7 @@ Chitter is a Twitter clone, built using Python, Flask, Jinja, PostgreSQL, CCS, H
 ![Screenshots from Chitter](assets/Chitter_screengrabs.png)
 
 ### [Paper Scissors Stone](https://github.com/SoundMotives/PaperScissorsStone)
-This is a simple web app of the Paper Scissors Stone game. It's an excercise in designing routes in Python, Flask, Jinja, CCS, HTML and HTTP. 
+A simple web app of the Paper Scissors Stone game. It's an excercise in designing routes in Python, Flask, Jinja, CCS, HTML and HTTP, which manages the logic of the game alongside error handling. 
 
 
 
