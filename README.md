@@ -1,7 +1,10 @@
 # Hi there 👋 
 
-## I'm Dave, a London-based full-stack developer. 
-I recently completed a 4 month Makers Bootcamp - taking the specialist track in software development. Beyond the fundamentals of Python and Javascript, the bootcamp focused on the Golden Square principles (test driven development, object-oriented design, debugging and pair programming), alongside best practices for the design and building of databases and web applications.
+## I'm Dave, a London-based full-stack developer, with a particular passion for designing how things work on the backend. 
+
+From March - July 2024, I worked as a full-stack developer for micro-mobility start up, Ventete, working predominantly on web development and 3rd party API integrations. I oversaw their migration from a Wordpress/PHP build to a Shopify build through June / July.
+
+In January 2024, I completed a 4 month Makers Bootcamp - taking the specialist track in software development. Beyond the fundamentals of Python and Javascript, the bootcamp focused on the Golden Square principles (test driven development, object-oriented design, debugging and pair programming), alongside best practices for the design and building of databases and web applications.
 
 Prior to Makers, I participated in Stanford's annual 8-week Code In Place course.
 
@@ -55,6 +58,9 @@ Prior to Makers, I participated in Stanford's annual 8-week Code In Place course
   </table>
 </div>
 
+## Current Projects 💻
+I'm building a 7-aside football administration app, using Python, PostgreSQL, Flask, JWT, and React. 
+
 ## My Makers Projects 💻
 ### [Roam Mates](https://github.com/SoundMotives/RoamMates)
 Roam Mates “connects like-minded travellers to explore the world! together”  We implemented a Python backend using Flask and PostgreSQL, with a Javascript and React frontend using JWT authentication. Collaboration was managed using Git, and testing was conducted using Pytest, Cypress and Playwright. Quality Engineer collaboration ensured the team built better software, and we learned a lot!
@@ -79,8 +85,7 @@ A simple web app of the Paper Scissors Stone game. It's an excercise in designin
 
 
 
-## Current Projects 💻
-I'm building on the learnings from Roam Mates with a new project which takes a similar approach of Python backend and Javascript/React frontend, but incorporating Django into the backend, to continue expanding my learning and potentially speed up workflows in the future!  
+
 
 ## Previous Experience 📻
 Formerly an award-winning Producer, Executive Producer and Editorial Consultant with over 15 years of audio experience, my career began in radio and podcasts. After refining my editorial and audio skills in these established formats, innovation and technology began playing an evermore central role in my work, participating in multidisciplinary teams developing synthetic voice experiences and innovation formats for broadcasters (BBC), publishers (The Guardian, The Financial Times), brands (Red Bull) and startups (Beams) - with synthetic voice technologies from Google Cloud, Microsoft Azure and Amazon Alexa at their core.
