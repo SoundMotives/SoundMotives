@@ -6,7 +6,7 @@ From March - July 2024, I worked as a full-stack developer for micro-mobility st
 
 In January 2024, I completed a 4 month Makers Bootcamp - taking the specialist track in software development. Beyond the fundamentals of Python and Javascript, the bootcamp focused on the Golden Square principles (test driven development, object-oriented design, debugging and pair programming), alongside best practices for the design and building of databases and web applications.
 
-Prior to Makers, I participated in Stanford's annual 8-week Code In Place course.
+Prior to Makers, in the summer of 2023 I participated in Stanford's annual 8-week Code In Place course.
 
 ## Languages, frameworks, libraries and web technologies I've used: 
 
