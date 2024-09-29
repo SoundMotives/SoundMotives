@@ -1,6 +1,6 @@
 # Hi there 👋 
 
-## I'm Dave, a London-based back-end developer.
+## I'm Dave, a London-based developer, with a focus on back-end development.
 
 From March - July 2024, I worked as a full-stack developer for micro-mobility start up, Ventete, working predominantly on web development and 3rd party API integrations. I oversaw their migration from a Wordpress/PHP build to a Shopify build through June / July.
 
