@@ -60,6 +60,7 @@ Prior to Makers, in the summer of 2023 I participated in Stanford's annual 8-wee
 
 ## Current Projects 💻
 I'm building a 7-aside football administration app, using Python, PostgreSQL, Flask, JWT, and React. 
+I'm also learning Django and Django REST framework, to speed up project development!
 
 ## My Makers Projects 💻
 ### [Roam Mates](https://github.com/SoundMotives/RoamMates)
