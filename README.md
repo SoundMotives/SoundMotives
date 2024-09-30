@@ -23,6 +23,7 @@ Prior to Makers, in the summer of 2023 I participated in Stanford's annual 8-wee
 <td style="text-align:left; vertical-align:top; padding:10px;">
 
 - Flask
+- Django
 - Jinja
 - Playwright
 - Pytest
